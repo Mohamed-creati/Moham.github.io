@@ -13,8 +13,8 @@
       @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Cookie&display=swap');
     </style>
 
-<h1 align="center" style="background-color:pink;">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center" style="background-color:pink;">Hi 👋, I'm Mohamed </h1>
+<h3 align="center">A passionate consultant </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiltony26&label=Profile%20views&color=0e75b6&style=flat" alt="nikhiltony26" /> </p>
 
